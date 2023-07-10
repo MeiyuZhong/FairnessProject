@@ -1,2 +1,2 @@
 # FairnessProject
-Regularization based Fair Machine Learning
+F-divergence Regularization based Fair Machine Learning
